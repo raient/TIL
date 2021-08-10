@@ -1,4 +1,4 @@
-### [Jupyter notebook](https://github.com/raient/TIL/blob/main/00_Python/01_python_basic.md/# Jupyter notebook)
+### [Jupyter notebook](https://github.com/raient/TIL/blob/main/00_Python/01_python_basic.md/)
 #### 기본 사용법,  magic Command,  Shell Command
 
 ### [파이썬의 기본문법](https://github.com/raient/TIL/blob/main/00_Python/01_python_basic.md)
